@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    color: white;
+    padding: 2.5% 20%;
+   background-image: url(bg2img.jpg);
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    background-size: contain;
+    /* background-attachment: fixed; */
+    background-position: center;
+
+}
